@@ -1,0 +1,1 @@
+*** automate AWS infrastructure with Terraform, basic structure ***
