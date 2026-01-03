@@ -1,0 +1,14 @@
+# IDE
+.vscode/*
+
+# Terraform
+.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Java/Maven
+target/
+
+# OS
+.DS_Store
